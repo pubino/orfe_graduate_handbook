@@ -3,29 +3,28 @@
 ## Table of Contents
 
 1. [Message from the Chair, Professor Ronnie Sircar](#message-from-the-chair)
-1. [Message from the Director of Graduate Studies (DGS), Professor Mykhaylo
-Shkolnikov](#message-from-the-director-of-graduate-studies)
+1. [Message from the Director of Graduate Studies](#message-from-the-director-of-graduate-studies)
 1. [PhD Program Requirement Summary](#phd-program-requirement-summary)
-    1. [Research & Thesis Adviser](#research-and-thesis-adviser)
-	1. [Ph.D. Qualifying and General Examinations]()
-	1. [Annual Reenrollment]()
-	1. [Dissertation and Post-Generals Courses]()
-	1. [Final Public Oral (FPO): Department Instructions]()
-1. [MSE Degree Requirements]()
-1. [Other Regulations]()
-	1. [Satisfactory Academic Progress]()
-	1. [Academic Regulations and Fraud]()
-	1. [Changes in Course Status]()
-	1. [Auditing Courses]()
-	1. [Assistants in Instruction (AIs)]()
-	1. [Part-time Employment]()
-	1. [Leave of Absence]()
-	1. [Holiday, Vacation, and Travel]()
-1. [Miscellaneous Information]()
-1. [Important Contacts]()
-1. [Frequently Asked Questions]()
-1. [Helpful Links]()
-1. [Policy on Graduate Student Travel]()
+    1. [Research and Thesis Adviser](#research-and-thesis-adviser)
+	1. [PhD Qualifying and General Examinations](#phd-qualifying-and-general-examinations)
+	1. [Annual Reenrollment](#annual-reenrollment)
+	1. [Dissertation and Post-Generals Courses](#dissertation-and-post-generals-courses)
+	1. [Final Public Oral](#final-public-oral)
+1. [MSE Degree Requirements](#mse-degree-requirements)
+1. [Other Regulations](#other-regulations)
+	1. [Satisfactory Academic Progress](#satisfactory-academic-progress)
+	1. [Academic Regulations and Fraud](#academic-regulations-and-fraud)
+	1. [Changes in Course Status](#changes-in-course-status)
+	1. [Auditing Courses](#auditing-courses)
+	1. [Assistants in Instruction](#assistants-in-instruction)
+	1. [Part-time Employment](#part-time-employment)
+	1. [Leave of Absence](#leave-of-absence)
+	1. [Holiday, Vacation, and Travel](#holiday-vacation-and-travel)
+1. [Miscellaneous Information](#miscellaneous-information)
+1. [Important Contacts](#important-contacts)
+1. [Frequently Asked Questions](#frequently-asked-questions)
+1. [Helpful Links](#helpful-links)
+1. [Policy on Graduate Student Travel](#policy-on-graduate-student-travel)
 
 This handbook describes the basic academic requirements and contains
 many tips and suggestions for new graduate students in the ORFE
@@ -48,8 +47,6 @@ coming years.
 
 ### Professor Mykhaylo Shkolnikov
 
-![](media/image4.png){width="1.8125in" height="2.384358048993876in"}
-
 It is my great pleasure to welcome you to ORFE! ORFE combines Financial
 Mathematics, Machine Learning, Operations Research, Optimization,
 Probability and Statistics under one roof and it is my hope that you
@@ -57,8 +54,7 @@ will thrive in this stimulating interdisciplinary environment. Please
 feel free to reach out for advice on academic matters as you progress
 through the various stages of Graduate School.
 
-PhD Program Requirement Summary
-===============================
+## PhD Program Requirement Summary
 
 In the first year, students sign up for the six core courses in
 optimization, probability and statistics, followed by a qualifying exam
@@ -206,8 +202,7 @@ Courses of potential interest in other departments:
 >
 > PHY 521/MAT 597 Introduction to Mathematical Physics
 
-1.1 Research & Thesis Adviser
------------------------------
+### Research and Thesis Adviser
 
 The core classes are there to establish a solid foundation with tools
 required for research in the disciplines covered by the department. The
@@ -234,14 +229,13 @@ If a student works with a faculty adviser who is not a member of the
 ORFE department, there must also be a co-adviser who is an ORFE faculty
 member, and who is seriously involved in co-advising the student.
 
-1.2 Ph.D. Qualifying and General Examinations
----------------------------------------------
+### PhD Qualifying and General Examinations
 
 The requirements for the PhD degree include passing the qualifying exam
 requirements, the general examination, a presentation of an acceptable
 thesis, and passing the final oral examination (thesis defense).
 
-**Qualifying Examination Procedure**
+#### Qualifying Examination Procedure**
 
 Each student must satisfy qualifying requirements. Qualifying exams
 are offered in September of the student's second year. Normally, the
@@ -260,7 +254,7 @@ The results of the qualifying exam are determined by a vote of the
 faculty. Students who fail must transfer out of the PhD program. There
 is no option to retake the exam.
 
-**General Examination Procedure**
+#### General Examination Procedure
 
 ORFE students take the general exam in April or May of their second
 year. By that time, the students have met the qualifying examination
@@ -310,10 +304,9 @@ on the recommendation of the examining committee. In case C, the student
 is usually given the MA degree and must terminate unless the faculty
 recommends otherwise.
 
-Annual Reenrollment
--------------------
+### Annual Reenrollment
 
-**Second Year Reenrollment**
+#### Second Year Reenrollment
 
 Upon passing the general examination, the recommendation for readmission
 for the next academic year is made by the student's thesis adviser and
