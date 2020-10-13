@@ -3,7 +3,7 @@
 ## Table of Contents
 
 1. [Message from the Chair, Professor Ronnie Sircar](#message-from-the-chair)
-1. [Message from the Director of Graduate Studies](#message-from-the-director-of-graduate-studies)
+1. [Message from the Director of Graduate Studies (DGS)](#message-from-the-director-of-graduate-studies-dgs)
 1. [PhD Program Requirement Summary](#phd-program-requirement-summary)
     1. [Research and Thesis Adviser](#research-and-thesis-adviser)
 	1. [PhD Qualifying and General Examinations](#phd-qualifying-and-general-examinations)
