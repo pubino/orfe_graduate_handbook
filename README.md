@@ -312,15 +312,14 @@ Upon passing the general examination, the recommendation for readmission
 for the next academic year is made by the student's thesis adviser and
 approved by the department faculty.
 
-Research Advising Committee for Ph.D. Candidates
-------------------------------------------------
+#### Research Advising Committee for Ph.D. Candidates
 
 If the thesis adviser plans to recommend against the readmission of the
 student, an examination committee *must* be formed to determine the
 progress of the student's work and the recommendation must be made by
 the committee and approved by the department faculty.
 
-**Third and Fourth Year** **Advisory Committee**
+#### Third and Fourth Year Advisory Committee
 
 ***Optional**-If requested* by either the student's thesis adviser, or
 the student, or the Director of Graduate Studies, an examination
@@ -336,8 +335,7 @@ of this interchange is to provide the student and the adviser some
 assistance in assuring that the research proceeds in a fruitful
 direction.
 
-1.4 Dissertation and Post-Generals Courses
-------------------------------------------
+### Dissertation and Post-Generals Courses
 
 Usually completion of a suitable dissertation takes two to three years
 beyond the general examination. During those years the student is
@@ -348,8 +346,7 @@ student\'s specialty area. Upon completion and acceptance of the
 dissertation by the department, the candidate will be admitted to the
 final public oral (FPO) examination.
 
-1.5 Final Public Oral (FPO): Department Instructions 
-----------------------------------------------------
+### Final Public Oral 
 
 The readers and FPO examiners must be approved first by the ORFE
 department, and then by the Graduate School. The first reader is the
@@ -376,8 +373,7 @@ sent to the Graduate School along with your additional application
 materials and requested FPO date and time for approval. This must be
 done at least two weeks prior to the requested FPO date.
 
- MSE Degree Requirements
-=======================
+## MSE Degree Requirements
 
 The program requires, as a minimum, 10 courses in two years with a
 master\'s thesis. In particular, ORF 509 and 510 must be taken (and can
@@ -429,15 +425,11 @@ Second year-Plan B
 
 **ORF 509/510 Requirements:**
 
-> ORF 509 and ORF 510 are directed research. Under the direction of a
-> faculty member, MSE students carry out research and write a report
-> with the results presented in a final oral exam (510)
+ORF 509 and ORF 510 are directed research. Under the direction of a faculty member, MSE students carry out research and write a report with the results presented in a final oral exam (510)
 
-Other Regulations
-=================
+## Other Regulations
 
-3.1 Satisfactory Academic Progress
-==================================
+### Satisfactory Academic Progress
 
 To establish the foundation for satisfactory academic progress, the
 Graduate School and academic departments expect the following from
@@ -473,8 +465,7 @@ Failure to perform according to these guidelines may result in, for
 example, deferred reenrollment or denial of reenrollment during the
 spring term review or termination at mid-year.
 
-3.2 Academic Regulations/Fraud
-------------------------------
+#### Academic Regulations and Fraud
 
 The Graduate School has become increasingly concerned about academic
 fraud. Please take time to read information on "General Requirements for
@@ -488,8 +479,7 @@ University requirements on acknowledgment of sources and academic fraud.
 The department joins with the Graduate School in taking a strict stance
 in this area.
 
-3.3 Changes in Course Status
-----------------------------
+#### Changes in Course Status
 
 Any changes (grading options, dropping or adding courses etc.) that you
 may need to make to your registered courses, should be discussed with
@@ -498,24 +488,15 @@ in a course no later than two weeks prior to the last day of the
 regularly scheduled class of the semester. Core Course changes must be
 approved by DGS in writing.
 
-3.4 Auditing Courses
---------------------
+#### Auditing Courses
 
-1.  
+1.  Courses selected by pre-Generals and Masters Students must be taken for a letter grade and cannot be audited.
+1.  Post-Generals students may sign up for courses as audit.
+1.  Post-Generals students may take courses on a pass/fail (P/F) basis with the approval of their adviser and the course instructor.
 
-2.  Courses selected by pre-Generals and Masters Students must be taken
-    for a letter grade and cannot be audited.
+Generally, courses taken on a P/F basis should be outside of the student's primary area of interest.
 
-3.  Post-Generals students may sign up for courses as audit.
-
-> 3 Post-Generals students may take courses on a pass/fail (P/F) basis
-> with the approval of their adviser and the course instructor.
-
-Generally, courses taken on a P/F basis should be outside of the
-student\'s primary area of interest.
-
-3.5 Assistants in Instruction (AIs)
------------------------------------
+#### Assistants in Instruction
 
 Normally, PhD candidates receive appointments as assistant in
 instruction (AI) beginning their second year. All students are required
@@ -524,8 +505,7 @@ be appointed as an AI, they need: to pass the English Language Program
 (ELP) test administered by the Graduate School, and to complete any
 required ELP courses.
 
-3.6 Part-time Employment
-------------------------
+#### Part-time Employment
 
 The following employment policy is quoted from the Princeton University
 Graduate School:
@@ -573,15 +553,13 @@ Students must seek approval of part-time employment opportunities by
 filing a Request for approval from their adviser and the Departmental
 Director of Graduate Studies.
 
-3.7 Leave of Absence
---------------------
+#### Leave of Absence
 
 Written approval of adviser and DGS are required. Leave of Absence forms
 are available on the department website under the About Tab, Internal, &
 Forms.
 
-3.8 Holiday, Vacation, and Travel
----------------------------------
+#### Holiday, Vacation, and Travel
 
 All time away from campus *(except weekends)* must be approved in
 writing by your adviser and if an Assistant in Instruction, approval
@@ -614,7 +592,7 @@ If a student holds an external fellowship whose terms may conflict with
 this guideline, the student should consult first with the director of
 graduate studies or adviser. 
 
-\*PLEASE NOTE
+**PLEASE NOTE**
 
 All ORFE Graduate Students are required to be on campus during term
 time. Any time away from campus exceeding 3 business days MUST BE
@@ -629,97 +607,73 @@ Academic Calendar:
 
 [[http://registrar.princeton.edu]{.ul}](http://registrar.princeton.edu)
 
- Miscellaneous Information
-=========================
+## Miscellaneous Information
 
 -   Watch your emails and mark your calendars for the following
     departmental events. Your presence at these events will be
     appreciated.
 
     -   Graduate Welcome Reception (September)
-
     -   ORFE Social: beer, wine and pizza event (typically every other
         Friday during the semester in the 2^nd^ floor common area)
-
     -   Academic job panel (early Fall semester)
-
     -   Faculty Presentations to 1^st^ year incoming Graduate students
         (Spring semester)
-
     -   Holiday Party (last week of classes in December)
-
     -   Seminars: Statistics (Mondays), ORFE colloquium (Tuesdays),
         Probability (alternate Wednesdays), Financial Mathematics
         (alternate Wednesdays), Optimization (Thursdays).
 
 -   Graduate Student Affairs Office is room 120, extension 8-4018,
     klupinac\@princeton.edu.
-
 -   E-mail is how department correspondence is transmitted. PLEASE check
     it regularly.
-
 -   Payroll checks are put in your mailbox on the last working day of
     the month. Go Green! Sign up for direct deposit via TIGERHUB,
     [http://www.princeton.edu/tigerhub]{.ul}.
-
 -   Mailboxes are located on the second floor, Room 221. PLEASE CHECK
     YOUR MAILBOX DAILY. The door to the mailroom is to be kept locked at
     all times.
-
 -   The address for package delivery is: your name, Princeton
     University, 98 Charlton Street, Sherrerd Hall, Princeton, NJ 08544
-
 -   A Fax Machine is located in the mailroom. To receive a fax, use
     609-258-3791. To send International 9-011+number, In US-9+number,
     Campus 8+4 digit number.
-
 -   You may use the copier as a scanner in room 107.
-
 -   Telephones are located in every room. Local calls are free. In case
     of an emergency and you want to make a long-distance call, please
     contact the Department Manager, Connie Brown.
-
 -   Graduate Student Kitchen, located in room 223. It is available to
     both graduate students and faculty in the ORFE department. Remember
     to clean up after your use. Vending machines are located in the
     basement. Please refrain from using the 3^rd^ floor kitchen
     facilities which is reserved for CITP faculty, staff and students.
-
 -   Graduate Lounge, the open area located on the second floor provides
     a meeting space for graduate students and faculty. This is a common
     area shared by all. Please clean the area after using. This space is
     not to be used for office hours.
-
 -   Bulletin boards. The graduate information board is located in the
     faculty and graduate open work space area on the second floor. There
     are also two seminar notice boards at the end of each hallway on the
     first and second floors. Information on current fellowships,
     scholarships, grants, call for papers, etc. to which students may
     apply are posted on the boards.
-
 -   Other sources of useful information can be found on the Graduate
     School website.
 
-Important Contacts
-==================
+## Important Contacts
 
-Chair, Professor Ronnie Sircar, Ext. 3255
-
-Director of Graduate Studies, Professor Mykhaylo Shkolnikov, Ext. 1044
-
-Department Manager, Connie Brown, Ext. 5422
-
-Graduate Program Administrator, Kimberly Lupinacci, Ext. 4018
-
-McCosh Health Center Emergency, Ext. 3139
-
-Public Safety Non-Emergency 258-1000 Emergency 9-1-1
+* Chair, Professor Ronnie Sircar, Ext. 3255
+* Director of Graduate Studies, Professor Mykhaylo Shkolnikov, Ext. 1044
+* Department Manager, Connie Brown, Ext. 5422
+* Graduate Program Administrator, Kimberly Lupinacci, Ext. 4018
+* McCosh Health Center Emergency, Ext. 3139
+* Public Safety Non-Emergency 258-1000 Emergency 9-1-1
 
 **Welcome to the department, we wish you success as you pursue your
 graduate degree**
 
-Frequently Asked Questions-FAQ's
-================================
+## Frequently Asked Questions
 
 -   **[Where can I have copies made?]{.ul}**
 
@@ -846,14 +800,10 @@ Frequently Asked Questions-FAQ's
 > *Poster printing can be done through Printing and Mailing which is
 > located at the corner of Charlton and Nassau.*
 
-Helpful Links
-=============
+## Helpful Links
 
 -   **Academic Calendar**
 
-```{=html}
-<!-- -->
-```
 -   **Blackboard**
 
 -   **Campus Maps**
@@ -888,22 +838,14 @@ Helpful Links
 
 -   **Our Neighborhood**
 
--   
-
 -   [**Public
     Transit**](https://transportation.princeton.edu/options/tigertransit)
     **Rights, Rules & Responsibilities**
 
 -   **SEAS**
 
-```{=html}
-<!-- -->
-```
 -   **Student Agencies**
 
-```{=html}
-<!-- -->
-```
 -   **The McGraw Center, seminars and workshops**
 
 -   **Tiger Trade**
@@ -918,8 +860,8 @@ Helpful Links
 
 -   **Photo ID Cards**
 
-8.  **Policy for Graduate Student Travel, Travel Reimbursement and
-    Reimbursement of Out of Pocket Expenses. (CONCUR)**
+
+## Policy on Graduate Student Travel
 
 **Policy for Student Travel, Travel Reimbursement and Reimbursement of
 Out of Pocket Expenses**
