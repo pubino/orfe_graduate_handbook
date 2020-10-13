@@ -72,30 +72,21 @@ final public oral examination.
 -   In the first year of graduate study, students must take all six core
     courses.
 
-> *Please note that core courses cannot be dropped without DGS
-> approval*.
->
-> Core courses:
+*Please note that core courses cannot be dropped without DGS approval*.
 
-ORF 522 Linear & Nonlinear Optimization
+### Core courses
 
-> ORF 523 Convex and Conic Optimization
+* ORF 522 Linear & Nonlinear Optimization
+* ORF 523 Convex and Conic Optimization
+* ORF 524 Statistical Theory and Methods
+* ORF 525 Statistical Foundations of Data Science
+* *ORF 526 Probability Theory
+* *ORF 527 Stochastic Calculus
 
-ORF 524 Statistical Theory and Methods
+### Qualifying exams
 
-> ORF 525 Statistical Foundations of Data Science
->
-> ORF 526 Probability Theory
->
-> ORF 527 Stochastic Calculus
+Qualifying exams are held in September of the second year. Students can place out of the qualifying exams by  receiving at least an A- in four of the core classes.
 
--   Qualifying exams: Qualifying exams are held in September of the
-    second year. Students can place out of the qualifying exams by
-    receiving at least an A- in four of the core classes.
-
-```{=html}
-<!-- -->
-```
 -   All Ph.D. and M.S.E. candidates are required to take EGR501 before
     the end of their second year. This is a half-semester course that
     will educate graduate students in engineering in the responsible
