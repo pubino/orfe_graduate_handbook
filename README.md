@@ -1,5 +1,7 @@
 # Operations Research & Financial Engineering (ORFE) Graduate Handbook
 
+This handbook describes the basic academic requirements and contains many tips and suggestions for new graduate students in the ORFE department.
+
 ## Table of Contents
 
 1. [Message from the Chair, Professor Ronnie Sircar](#message-from-the-chair)
@@ -26,51 +28,23 @@
 1. [Helpful Links](#helpful-links)
 1. [Policy on Graduate Student Travel](#policy-on-graduate-student-travel)
 
-This handbook describes the basic academic requirements and contains
-many tips and suggestions for new graduate students in the ORFE
-department.
-
-## Message from the Chair
+## Message from the Chair<a name="message-from-the-chair"></a>
 
 ### Professor Ronnie Sircar
 
-Welcome to the Department of Operations Research and Financial
-Engineering. I wish you the best for your academic success over the next
-few years. At Princeton, you will be among the best, brightest and most
-creative talents of your generation. ORFE is a small and friendly
-department \-- please do introduce yourself to fellow students and to
-faculty when you see them. We are very happy that you chose to join us,
-and we look forward to learning about your research and ideas in the
-coming years.
+Welcome to the Department of Operations Research and Financial Engineering. I wish you the best for your academic success over the nextfew years. At Princeton, you will be among the best, brightest and most creative talents of your generation. ORFE is a small and friendly department---please do introduce yourself to fellow students and to faculty when you see them. We are very happy that you chose to join us,and we look forward to learning about your research and ideas in thecoming years.
 
 ## Message from the Director of Graduate Studies (DGS)
 
 ### Professor Mykhaylo Shkolnikov
 
-It is my great pleasure to welcome you to ORFE! ORFE combines Financial
-Mathematics, Machine Learning, Operations Research, Optimization,
-Probability and Statistics under one roof and it is my hope that you
-will thrive in this stimulating interdisciplinary environment. Please
-feel free to reach out for advice on academic matters as you progress
-through the various stages of Graduate School.
+It is my great pleasure to welcome you to ORFE! ORFE combines Financial Mathematics, Machine Learning, Operations Research, Optimization, Probability and Statistics under one roof and it is my hope that you will thrive in this stimulating interdisciplinary environment. Please feel free to reach out for advice on academic matters as you progress through the various stages of Graduate School.
 
 ## PhD Program Requirement Summary
 
-In the first year, students sign up for the six core courses in
-optimization, probability and statistics, followed by a qualifying exam
-at the end of the summer, if required. In addition, at least two
-advanced courses and two semesters of directed research are completed
-under the direction of a faculty adviser in the student\'s area of
-interest by the end of the second year in preparation for the general
-examination. The general examination is taken in the spring of the
-second year of study. Usually, beyond the general examination, two to
-three years are needed for the completion of a suitable dissertation.
-Upon completion of thesis studies and acceptance of the dissertation by
-the department and the Graduate School, the candidate is admitted to the
-final public oral examination.
+In the first year, students sign up for the six core courses in optimization, probability and statistics, followed by a qualifying exam at the end of the summer, if required. In addition, at least two advanced courses and two semesters of directed research are completed under the direction of a faculty adviser in the student's area of interest by the end of the second year in preparation for the general examination. The general examination is taken in the spring of the second year of study. Usually, beyond the general examination, two to three years are needed for the completion of a suitable dissertation. Upon completion of thesis studies and acceptance of the dissertation by the department and the Graduate School, the candidate is admitted to the final public oral examination.
 
--   In the first year of graduate study, students must take all six core
-    courses.
+In the first year of graduate study, students must take all six core courses.
 
 *Please note that core courses cannot be dropped without DGS approval*.
 
@@ -80,404 +54,184 @@ final public oral examination.
 * ORF 523 Convex and Conic Optimization
 * ORF 524 Statistical Theory and Methods
 * ORF 525 Statistical Foundations of Data Science
-* *ORF 526 Probability Theory
-* *ORF 527 Stochastic Calculus
+* ORF 526 Probability Theory
+* ORF 527 Stochastic Calculus
 
 ### Qualifying exams
 
-Qualifying exams are held in September of the second year. Students can place out of the qualifying exams by  receiving at least an A- in four of the core classes.
+Qualifying exams are held in September of the second year. Students can place out of the qualifying exams by receiving at least an A- in four of the core classes.
 
--   All Ph.D. and M.S.E. candidates are required to take EGR501 before
-    the end of their second year. This is a half-semester course that
-    will educate graduate students in engineering in the responsible
-    conduct of research. The lectures provide theoretical background
-    information as well as case studies about ethics in day-to-day
-    research situations, publishing and peer-reviewing, student-adviser
-    relationships, collaborative research, as well as in the big picture
-    and considerations of long-term impact. Students are provided
-    resources to consult when faced with ethical questions. The
-    theoretical concepts are made relevant via small-group discussions
-    in departmental and research field-specific precepts. The course is
-    graded on a pass/fail basis.
+- All Ph.D. and M.S.E. candidates are required to take EGR501 before the end of their second year. This is a half-semester course that will educate graduate students in engineering in the responsible conduct of research. The lectures provide theoretical background information as well as case studies about ethics in day-to-day research situations, publishing and peer-reviewing, student-adviser relationships, collaborative research, as well as in the big picture and considerations of long-term impact. Students are provided resources to consult when faced with ethical questions. The theoretical concepts are made relevant via small-group discussions in departmental and research field-specific precepts. The course is graded on a pass/fail basis.
+- ORF 509 & 510: Before taking the general exams, Ph.D. students must complete two research projects under the supervision of a faculty belonging to ORFE or associated to ORFE. Students are required to submit a written report on the findings in both projects. The results of ORF 510 are presented in the oral part of the general exam.
+- General exam (at the end of the second year)
+- Research dissertation and Final Public Oral Exam (FPO)
 
--   ORF 509 & 510: Before taking the general exams, Ph.D. students must
-    complete two research projects under the supervision of a faculty
-    belonging to ORFE or associated to ORFE. Students are required to
-    submit a written report on the findings in both projects. The
-    results of ORF 510 are presented in the oral part of the general
-    exam.
+In addition, students take a number of additional classes. At least two of these classes at the 500 level (not including Seminars) must be passed with at least a B+ requirement to pass the general exam. These two advanced courses can be chosen from the following list of relevant classes:
 
-```{=html}
-<!-- -->
-```
--   
-
--   General exam (at the end of the second year)
-
--   
-
--   Research dissertation and Final Public Oral Exam (FPO)
-
-In addition, students take a number of additional classes. At least two
-of these classes at the 500 level (not including Seminars) must be
-passed with at least a B+ requirement to pass the general exam. These
-two advanced courses can be chosen from the following list of relevant
-classes:
-
-> ORF 504 Financial Econometrics
->
-> ORF 505 Statistical Analysis of Financial Data
->
-> ORF 531 Computational Finance in C++
->
-> ORF 534 Quantitative Investment Management
->
-> ORF 535 Financial Risk Management
->
-> ORF 538 PDE Methods in Financial Mathematics
->
-> ORF 542 Stochastic Control and Stochastic Differential Games
->
-> ORF 544 Stochastic Optimization
->
-> ORF 550 Topics in Probability: Probability in High Dimension
->
-> ORF 554 Markov Processes
->
-> ORF 565 Empirical Process and Asymptotic Statistics
->
-> ORF 569 Special Topics in Statistics, Operations Research and
-> Financial Engineering (e.g., Theory and Practice of Deep Learning,
-> Probabilistic Theory of Network Games and Mean Field Interactions,
-> Topics in Game Theory)
+- ORF 504 Financial Econometrics
+- ORF 505 Statistical Analysis of Financial Data
+- ORF 531 Computational Finance in C++
+- ORF 534 Quantitative Investment Management
+- ORF 535 Financial Risk Management
+- ORF 538 PDE Methods in Financial Mathematics
+- ORF 542 Stochastic Control and Stochastic Differential Games
+- ORF 544 Stochastic Optimization
+- ORF 550 Topics in Probability: Probability in High Dimension
+- ORF 554 Markov Processes
+- ORF 565 Empirical Process and Asymptotic Statistics
+- ORF 569 Special Topics in Statistics, Operations Research and Financial Engineering (e.g., Theory and Practice of Deep Learning, Probabilistic Theory of Network Games and Mean Field Interactions, Topics in Game Theory)
 
 Courses of potential interest in other departments:
 
-> APC 503 Analytical Techniques in Differential Equations
->
-> COS 511 Theoretical Machine Learning
->
-> COS 521 Advanced Algorithm Design
->
-> COS 528 Data Structures and Graph Algorithms
->
-> COS 534 Fairness in Machine Learning
->
-> ECO 517 Econometric Theory I
->
-> ECO 518 Econometric Theory II
->
-> ECO 525 Financial Economics I
->
-> ECO 526 Financial Economics II
->
-> ELE 525 Random Processes in Information Systems
->
-> ELE 535 Machine Learning and Pattern Recognition
->
-> ELE 538B Information Sciences and Systems Large Scale Optimization for
-> Data Science
->
-> MAE 546 Optimal Control and Estimation
->
-> MAT 522/APC 522 Introduction to PDE
->
-> MAT 527 Topics in Differential Equations: Global Solutions of
-> Nonlinear Evolutions
->
-> MAT 572/APC 572 Introduction to Combinatorial Optimization
->
-> MAT 587 Topics in Ergodic Theory: Introduction to Ergodic Theory
->
-> WWS 509 Generalized Linear Statistical Models
->
-> PHY 521/MAT 597 Introduction to Mathematical Physics
+- APC 503 Analytical Techniques in Differential Equations
+- COS 511 Theoretical Machine Learning
+- COS 521 Advanced Algorithm Design
+- COS 528 Data Structures and Graph Algorithms
+- COS 534 Fairness in Machine Learning
+- ECO 517 Econometric Theory I
+- ECO 518 Econometric Theory II
+- ECO 525 Financial Economics I
+- ECO 526 Financial Economics II
+- ELE 525 Random Processes in Information Systems
+- ELE 535 Machine Learning and Pattern Recognition
+- ELE 538B Information Sciences and Systems Large Scale Optimization for
+- Data Science
+- MAE 546 Optimal Control and Estimation
+- MAT 522/APC 522 Introduction to PDE
+- MAT 527 Topics in Differential Equations: Global Solutions of
+- Nonlinear Evolutions
+- MAT 572/APC 572 Introduction to Combinatorial Optimization
+- MAT 587 Topics in Ergodic Theory: Introduction to Ergodic Theory
+- WWS 509 Generalized Linear Statistical Models
+- PHY 521/MAT 597 Introduction to Mathematical Physics
 
 ### Research and Thesis Adviser
 
-The core classes are there to establish a solid foundation with tools
-required for research in the disciplines covered by the department. The
-funding provided by the university for the first year provides freedom
-and time for students to acclimate to the new environment of graduate
-school and to make a wise choice of research direction and adviser. Some
-may know early on the direction they wish to pursue, but for many, it is
-worth exploring a number of classes taught by a variety of professors
-before deciding.
+The core classes are there to establish a solid foundation with tools required for research in the disciplines covered by the department. The funding provided by the university for the first year provides freedom and time for students to acclimate to the new environment of graduate school and to make a wise choice of research direction and adviser. Some may know early on the direction they wish to pursue, but for many, it is worth exploring a number of classes taught by a variety of professors before deciding.
 
-The directed classes ORF 509 and 510 should be taken with a faculty
-adviser with a grade received for 509 by the time of the general exams.
-The grade for 510 counts as the oral general exam grade. Some take these
-classes in the spring of the first year and fall of the second year.
-Others take 509/510 in the fall and spring of the second year.
+The directed classes ORF 509 and 510 should be taken with a faculty adviser with a grade received for 509 by the time of the general exams. The grade for 510 counts as the oral general exam grade. Some take these classes in the spring of the first year and fall of the second year. Others take 509/510 in the fall and spring of the second year.
 
-The department is small and there is plenty of opportunity to meet and
-talk with faculty about research interests. Please be pro-active in
-doing so as you discover your areas of interest. At various times, some
-faculty might simply be too busy to take on new students: do not take it
-personal if a faculty member is unable to take you on as an advisee,
-there are plenty of excellent research opportunities available to you.
-If a student works with a faculty adviser who is not a member of the
-ORFE department, there must also be a co-adviser who is an ORFE faculty
-member, and who is seriously involved in co-advising the student.
+The department is small and there is plenty of opportunity to meet and talk with faculty about research interests. Please be pro-active in doing so as you discover your areas of interest. At various times, some faculty might simply be too busy to take on new students: do not take it personal if a faculty member is unable to take you on as an advisee, there are plenty of excellent research opportunities available to you. If a student works with a faculty adviser who is not a member of the ORFE department, there must also be a co-adviser who is an ORFE faculty member, and who is seriously involved in co-advising the student.
 
 ### PhD Qualifying and General Examinations
 
-The requirements for the PhD degree include passing the qualifying exam
-requirements, the general examination, a presentation of an acceptable
-thesis, and passing the final oral examination (thesis defense).
+The requirements for the PhD degree include passing the qualifying exam requirements, the general examination, a presentation of an acceptable thesis, and passing the final oral examination (thesis defense).
 
-#### Qualifying Examination Procedure**
+#### Qualifying Examination Procedure
 
-Each student must satisfy qualifying requirements. Qualifying exams
-are offered in September of the student's second year. Normally, the
-qualifying exams are oral and administered by 2 ORFE faculty at the rank
-of Assistant Professor or above.
+Each student must satisfy qualifying requirements. Qualifying exams are offered in September of the student's second year. Normally, the qualifying exams are oral and administered by 2 ORFE faculty at the rank of Assistant Professor or above.
 
-A student who obtained a grade of A- or better in 4 of the 6 required
-classes will be exempt from the September qualifying exams. If this is
-not the case, the student will meet with the DGS to decide which exams
-need to be taken in September to satisfy the requirements. The
-optimization exams are based on ORF 522 and ORF 523. The probability
-exams are based on ORF 526 and ORF 527. The statistics exams are based
-on ORF 524 and ORF 525. 
+A student who obtained a grade of A- or better in 4 of the 6 required classes will be exempt from the September qualifying exams. If this is not the case, the student will meet with the DGS to decide which exams need to be taken in September to satisfy the requirements. The optimization exams are based on ORF 522 and ORF 523. The probability exams are based on ORF 526 and ORF 527. The statistics exams are based on ORF 524 and ORF 525.
 
-The results of the qualifying exam are determined by a vote of the
-faculty. Students who fail must transfer out of the PhD program. There
-is no option to retake the exam.
+The results of the qualifying exam are determined by a vote of the faculty. Students who fail must transfer out of the PhD program. There is no option to retake the exam.
 
 #### General Examination Procedure
 
-ORFE students take the general exam in April or May of their second
-year. By that time, the students have met the qualifying examination
-requirements, have taken and passed ORF 509, have taken or are currently
-enrolled in ORF 510 and have passed with a B+ or higher two advanced
-courses. The student must have shown adequate progress on research and
-an acceptable level of understanding of his or her area of
-specialization.
+ORFE students take the general exam in April or May of their second year. By that time, the students have met the qualifying examination requirements, have taken and passed ORF 509, have taken or are currently enrolled in ORF 510 and have passed with a B+ or higher two advanced courses. The student must have shown adequate progress on research and an acceptable level of understanding of his or her area of specialization.
 
-The general exam consists of two parts, a written and an oral part, both
-covering the student primary area of specialization. The written part
-requires taking and passing with a B+ or higher two approved advanced
-courses at the graduate (500) level beyond the 4 core classes counted
-for the Qualifying Exam. These two courses must be approved by the
-student's adviser and the DGS.
+The general exam consists of two parts, a written and an oral part, both covering the student primary area of specialization. The written part requires taking and passing with a B+ or higher two approved advanced courses at the graduate (500) level beyond the 4 core classes counted for the Qualifying Exam. These two courses must be approved by the student's adviser and the DGS.
 
-For each student, an examining committee is selected by the student and
-adviser. The committee will be approved by the Director of Graduate
-Studies. Normally, the committee members comprise the students
-adviser(s) and two additional ORFE faculty or associated faculty. The
-committee will administer the oral exam, evaluate the student's
-performance in research and overall knowledge of his/her field, and make
-a recommendation to the department faculty. A departmental faculty vote
-determines the final outcome. The oral exam may be up to 3 hours in
-length.
+For each student, an examining committee is selected by the student and adviser. The committee will be approved by the Director of Graduate Studies. Normally, the committee members comprise the students adviser(s) and two additional ORFE faculty or associated faculty. The committee will administer the oral exam, evaluate the student's performance in research and overall knowledge of his/her field, and make a recommendation to the department faculty. A departmental faculty vote determines the final outcome. The oral exam may be up to 3 hours in length.
 
-***Information on the oral exam:*** Before the exam, the student is
-required to submit a comprehensive written report on the research
-conducted in ORF 509-510. It is due one week before the exam takes
-place. The report serves as the basis for the student's presentation.
-The purpose of the presentation is to explain the research the student
-has done so far and plans to do in the future. Examining faculty may ask
-questions on the presentation and on any other material deemed
-appropriate for a comprehensive examination.
+**Information on the oral exam:** Before the exam, the student is required to submit a comprehensive written report on the research conducted in ORF 509-510. It is due one week before the exam takes place. The report serves as the basis for the student's presentation. The purpose of the presentation is to explain the research the student has done so far and plans to do in the future. Examining faculty may ask questions on the presentation and on any other material deemed appropriate for a comprehensive examination.
 
 The possible outcomes of the general exam are as follows:
 
 A. Student passes the exam and is admitted to Ph.D. candidacy,
-
-B. Student fails the exam but is given the option to retake the exam at
-a future date,
-
+B. Student fails the exam but is given the option to retake the exam at a future date,
 C. Student fails the exam and must withdraw from the Ph.D. program.
 
-As mentioned earlier, the ORFE faculty will determine the outcome based
-on the recommendation of the examining committee. In case C, the student
-is usually given the MA degree and must terminate unless the faculty
-recommends otherwise.
+As mentioned earlier, the ORFE faculty will determine the outcome based on the recommendation of the examining committee. In case C, the student is usually given the MA degree and must terminate unless the faculty recommends otherwise. 
 
 ### Annual Reenrollment
 
 #### Second Year Reenrollment
 
-Upon passing the general examination, the recommendation for readmission
-for the next academic year is made by the student's thesis adviser and
-approved by the department faculty.
+Upon passing the general examination, the recommendation for readmission for the next academic year is made by the student's thesis adviser and approved by the department faculty.
 
 #### Research Advising Committee for Ph.D. Candidates
 
-If the thesis adviser plans to recommend against the readmission of the
-student, an examination committee *must* be formed to determine the
-progress of the student's work and the recommendation must be made by
-the committee and approved by the department faculty.
+If the thesis adviser plans to recommend against the readmission of the student, an examination committee *must* be formed to determine the progress of the student's work and the recommendation must be made by the committee and approved by the department faculty.
 
 #### Third and Fourth Year Advisory Committee
 
-***Optional**-If requested* by either the student's thesis adviser, or
-the student, or the Director of Graduate Studies, an examination
-committee shall be appointed by the department chair to examine the
-progress of the student. The committee would be composed of the
-student\'s adviser plus two other advisory faculty members. The student
-will present a seminar to this committee describing the proposed area of
-research, the background work completed in preparing for the research
-effort, the intended avenues of investigation, specific problems with
-the work the student feels are likely to cause the most difficulty, and
-the aspects of the work that will require the most guidance. The purpose
-of this interchange is to provide the student and the adviser some
-assistance in assuring that the research proceeds in a fruitful
-direction.
+**Optional** If requested by either the student's thesis adviser, or the student, or the Director of Graduate Studies, an examination committee shall be appointed by the department chair to examine the progress of the student. The committee would be composed of the student\'s adviser plus two other advisory faculty members. The student will present a seminar to this committee describing the proposed area of research, the background work completed in preparing for the research effort, the intended avenues of investigation, specific problems with the work the student feels are likely to cause the most difficulty, and the aspects of the work that will require the most guidance. The purpose of this interchange is to provide the student and the adviser some assistance in assuring that the research proceeds in a fruitful direction.
 
 ### Dissertation and Post-Generals Courses
 
-Usually completion of a suitable dissertation takes two to three years
-beyond the general examination. During those years the student is
-encouraged to select an area outside his/her specialty and to broaden
-his/her base of knowledge by enrolling in courses in that area. It is
-also expected that additional courses will be taken related to the
-student\'s specialty area. Upon completion and acceptance of the
-dissertation by the department, the candidate will be admitted to the
-final public oral (FPO) examination.
+Usually completion of a suitable dissertation takes two to three years beyond the general examination. During those years the student is encouraged to select an area outside his/her specialty and to broaden his/her base of knowledge by enrolling in courses in that area. It is also expected that additional courses will be taken related to the student\'s specialty area. Upon completion and acceptance of the dissertation by the department, the candidate will be admitted to the final public oral (FPO) examination.
 
 ### Final Public Oral 
 
-The readers and FPO examiners must be approved first by the ORFE
-department, and then by the Graduate School. The first reader is the
-principal adviser, and the second reader is an ORFE faculty member. An
-FPO examination committee and readers approval request must be submitted
-to the Department Chair's office. Please submit at least two months
-before the anticipated FPO date to Connie Brown at
-connieb\@princeton.edu. If any reader is not a Princeton ORFE professor,
-your request should include a written justification why an external
-reader is needed, and their current CV. The committee of examiners for
-the FPO must include no fewer than two current ORFE faculty members, and
-no fewer than three current Princeton faculty members. If a committee
-member is not an ORFE faculty member, your request must include written
-justification why an external committee member is needed, as well as
-their current CV.
+The readers and FPO examiners must be approved first by the ORFE department, and then by the Graduate School. The first reader is the principal adviser, and the second reader is an ORFE faculty member. An FPO examination committee and readers approval request must be submitted to the Department Chair's office. Please submit at least two months before the anticipated FPO date to Connie Brown at connieb@princeton.edu. If any reader is not a Princeton ORFE professor, your request should include a written justification why an external reader is needed, and their current CV. The committee of examiners for the FPO must include no fewer than two current ORFE faculty members, and no fewer than three current Princeton faculty members. If a committee member is not an ORFE faculty member, your request must include written justification why an external committee member is needed, as well as their current CV.
 
-When your committee and readers are approved by the department, you will
-be notified in writing. You will provide your department-approved list
-to the Graduate Program Administrator, who will then send it to the
-Graduate School for approval. Once approved by the Graduate School, you
-can send your thesis to your readers. After the readers send their
-completed reports to the Graduate Program Administrator, they will be
-sent to the Graduate School along with your additional application
-materials and requested FPO date and time for approval. This must be
-done at least two weeks prior to the requested FPO date.
+When your committee and readers are approved by the department, you will be notified in writing. You will provide your department-approved list to the Graduate Program Administrator, who will then send it to the Graduate School for approval. Once approved by the Graduate School, you can send your thesis to your readers. After the readers send their completed reports to the Graduate Program Administrator, they will be sent to the Graduate School along with your additional application materials and requested FPO date and time for approval. This must be done at least two weeks prior to the requested FPO date.
 
 ## MSE Degree Requirements
 
-The program requires, as a minimum, 10 courses in two years with a
-master\'s thesis. In particular, ORF 509 and 510 must be taken (and can
-be included in the required 10 courses). The grade for ORF 510 will be
-counted as the master thesis grade after an oral examination of the
-thesis with the student's adviser and another ORFE faculty or associated
-faculty member. The following is a sample study plan. Make alterations
-as you deem appropriate, subject to the approvals of your adviser and
-the Director of Graduate Studies depending on your background and
-interests.
+The program requires, as a minimum, 10 courses in two years with a master\'s thesis. In particular, ORF 509 and 510 must be taken (and can be included in the required 10 courses). The grade for ORF 510 will be counted as the master thesis grade after an oral examination of the thesis with the student's adviser and another ORFE faculty or associated faculty member. The following is a sample study plan. Make alterations as you deem appropriate, subject to the approvals of your adviser and the Director of Graduate Studies depending on your background and interests.
 
-Sample Study Plan for MSE:
+### Sample Study Plan for MSE
 
-First year-Plan A
+#### First year-Plan A
 
-  ---------- ------------
-  **Fall**   **Spring**
-  ORF 505    ORF 509
-  ORF 522    ORF 523
-  ORF 526    ORF 527
-  ORF 524    ORF 504
-  ---------- ------------
+| Fall    | Spring  |
+|---------|---------|
+| ORF 505 | ORF 509 |
+| ORF 522 | ORF 523 |
+| ORF 526 | ORF 527 |
+| ORF 524 | ORF 504 |
 
-First year-Plan B
+#### First year-Plan B
 
-  ---------- ------------
-  **Fall**   **Spring**
-  ORF 505    ORF 509
-  ORF 522    ORF 504
-  ORF 526    ORF 527
-  Elective   ORF 534
-  ---------- ------------
+| Fall    | Spring  |
+|---------|---------|
+| ORF 505 | ORF 509 |
+| ORF 522 | ORF 523 |
+| ORF 526 | ORF 527 |
+| ORF 524 | ORF 504 |
 
-Second year-Plan A
+#### Second year-Plan A
 
-  ---------- ------------
-  **Fall**   **Spring**
-  ORF 510    ORF 547
-  Elective   Elective
-  ---------- ------------
+| Fall     | Spring   |
+|----------|----------|
+| ORF 510  | ORF 547  |
+| Elective | Elective |
 
-Second year-Plan B
+#### Second year-Plan B
 
-  ---------- ------------
-  **Fall**   **Spring**
-  ORF 510    ORF 525
-  Elective   Elective
-  ---------- ------------
+| Fall     | Spring   |
+|----------|----------|
+| ORF 510  | ORF 525  |
+| Elective | Elective |
 
 **ORF 509/510 Requirements:**
 
-ORF 509 and ORF 510 are directed research. Under the direction of a faculty member, MSE students carry out research and write a report with the results presented in a final oral exam (510)
+ORF 509 and ORF 510 are directed research. Under the direction of a faculty member, MSE students carry out research and write a report with the results presented in a final oral exam (510).
 
 ## Other Regulations
 
 ### Satisfactory Academic Progress
 
-To establish the foundation for satisfactory academic progress, the
-Graduate School and academic departments expect the following from
-enrolled students, as evidence of their successful engagement with
-graduate work and for them to continue to receive their stipends and
-other benefits of enrollment:
+To establish the foundation for satisfactory academic progress, the Graduate School and academic departments expect the following from enrolled students, as evidence of their successful engagement with graduate work and for them to continue to receive their stipends and other benefits of enrollment:
 
--   [Full-time Commitment.]{.ul} Graduate study at Princeton, at both
-    the doctoral and master's levels, requires full-time commitment to
-    study and research on the part of students.
+- Full-time Commitment. Graduate study at Princeton, at both the doctoral and master's levels, requires full-time commitment to study and research on the part of students.
 
--   [Presence:]{.ul} Students must be visibly present in the department
-    and on campus, unless *In Absentia* or on an approved Leave of
-    Absence. As importantly, students must be intellectually "present,"
-    that is, noticeably engaged in the normal work of their degree
-    program---course-taking, paper-writing, research, teaching, seminar
-    attendance.
+- Presence. Students must be visibly present in the department and on campus, unless *In Absentia* or on an approved Leave of Absence. As importantly, students must be intellectually "present," that is, noticeably engaged in the normal work of their degree program---course-taking, paper-writing, research, teaching, seminar attendance.
 
--   [Production:]{.ul} Students must be producing work of good quality,
-    at the appropriate and expected stages of their degree program, and
-    showing the products of their study and research to the faculty for
-    evaluation.
+- Production. Students must be producing work of good quality, at the appropriate and expected stages of their degree program, and showing the products of their study and research to the faculty for evaluation.
 
--   [Communication:]{.ul} Students must regularly communicate with and
-    respond in a timely manner to communications from their department
-    graduate program administrator, director of graduate studies,
-    adviser(s), committee members, and other faculty members as
-    appropriate. This is a reciprocal responsibility and graduate
-    students should therefore expect regular and timely communication in
-    order to maintain satisfactory academic progress.
+- Communication. Students must regularly communicate with and respond in a timely manner to communications from their department graduate program administrator, director of graduate studies, adviser(s), committee members, and other faculty members as appropriate. This is a reciprocal responsibility and graduate students should therefore expect regular and timely communication in order to maintain satisfactory academic progress.
 
-Failure to perform according to these guidelines may result in, for
-example, deferred reenrollment or denial of reenrollment during the
-spring term review or termination at mid-year.
+Failure to perform according to these guidelines may result in, for example, deferred reenrollment or denial of reenrollment during the spring term review or termination at mid-year.
 
 #### Academic Regulations and Fraud
 
-The Graduate School has become increasingly concerned about academic
-fraud. Please take time to read information on "General Requirements for
-the Acknowledgment of Sources in Academic Work" and "Definitions of
-Academic Violations under the Jurisdiction of the Faculty-Student
-Committee on Discipline" contained in "Rights, Rules and
-Responsibilities". Upon entering Princeton, you also received
-information concerning this important subject. This information is
-furnished to make you aware of your responsibilities regarding
-University requirements on acknowledgment of sources and academic fraud.
-The department joins with the Graduate School in taking a strict stance
-in this area.
+The Graduate School has become increasingly concerned about academic fraud. Please take time to read information on "General Requirements for the Acknowledgment of Sources in Academic Work" and "Definitions of Academic Violations under the Jurisdiction of the Faculty-Student Committee on Discipline" contained in "Rights, Rules and Responsibilities". Upon entering Princeton, you also received information concerning this important subject. This information is furnished to make you aware of your responsibilities regarding University requirements on acknowledgment of sources and academic fraud. The department joins with the Graduate School in taking a strict stance in this area.
 
 #### Changes in Course Status
 
-Any changes (grading options, dropping or adding courses etc.) that you
-may need to make to your registered courses, should be discussed with
-your adviser or DGS prior to making changes. You may change your status
-in a course no later than two weeks prior to the last day of the
-regularly scheduled class of the semester. Core Course changes must be
-approved by DGS in writing.
+Any changes (grading options, dropping or adding courses etc.) that you may need to make to your registered courses, should be discussed with your adviser or DGS prior to making changes. You may change your status in a course no later than two weeks prior to the last day of the regularly scheduled class of the semester. Core Course changes must be approved by DGS in writing.
 
 #### Auditing Courses
 
@@ -489,168 +243,69 @@ Generally, courses taken on a P/F basis should be outside of the student's prima
 
 #### Assistants in Instruction
 
-Normally, PhD candidates receive appointments as assistant in
-instruction (AI) beginning their second year. All students are required
-to attend AI training prior to term. Before an international student can
-be appointed as an AI, they need: to pass the English Language Program
-(ELP) test administered by the Graduate School, and to complete any
-required ELP courses.
+Normally, PhD candidates receive appointments as assistant in instruction (AI) beginning their second year. All students are required to attend AI training prior to term. Before an international student can be appointed as an AI, they need: to pass the English Language Program (ELP) test administered by the Graduate School, and to complete any required ELP courses.
 
 #### Part-time Employment
 
-The following employment policy is quoted from the Princeton University
-Graduate School:
+The following employment policy is quoted from the Princeton University Graduate School:
 
-The Graduate School considers employment beyond a maximum full-time
-assistantship of 20 hours per week incompatible with full-time graduate
-study.
+The Graduate School considers employment beyond a maximum full-time assistantship of 20 hours per week incompatible with full-time graduate study.
 
-The Graduate School reviews students\' on-campus employment records.
-Accordingly, the Graduate School can and will disallow part-time
-employment, excluding all service awards, if that employment does not
-comply with federal immigration and employment regulations, and/or
-fellowship policies. The following policies will be applicable:
+The Graduate School reviews students' on-campus employment records. Accordingly, the Graduate School can and will disallow part-time employment, excluding all service awards, if that employment does not comply with federal immigration and employment regulations, and/or fellowship policies. The following policies will be applicable:
 
-Under no circumstance can a U. S. student or permanent resident work
-more than 20 hours per week from all sources (AI, AR and/or hourly
-employment). Any work beyond a full AI and/or AR appointment may
-jeopardize the full-time student status of this and other graduate
-students (with serious tax implications), and will therefore be closely
-scrutinized.
+Under no circumstance can a U. S. student or permanent resident work more than 20 hours per week from all sources (AI, AR and/or hourly employment). Any work beyond a full AI and/or AR appointment may jeopardize the full-time student status of this and other graduate students (with serious tax implications), and will therefore be closely scrutinized.
 
-Under no circumstances can an international student on a visa, with a
-full AI and/or AR appointment, work even one hour more through hourly
-employment or otherwise. This not only jeopardizes the full-time student
-status of this and other graduate students as noted above, but it also
-violates the terms of the visa status.
+Under no circumstances can an international student on a visa, with a full AI and/or AR appointment, work even one hour more through hourly employment or otherwise. This not only jeopardizes the full-time student status of this and other graduate students as noted above, but it also violates the terms of the visa status. 
 
-International students may not accept off-campus employment without
-authorization from either the Immigration and Naturalization Service or
-the J-1 program sponsor. International students should contact the
-International Graduate Student Adviser (Office of General Counsel), for
-further information on employment eligibility.
+International students may not accept off-campus employment without authorization from either the Immigration and Naturalization Service or the J-1 program sponsor. International students should contact the International Graduate Student Adviser (Office of General Counsel), for further information on employment eligibility.
 
-Historically, in addition to being employed as ARs and AIs by the
-Department, graduate students have intermittently been involved in
-employment elsewhere. It is the concern of the Department that, at
-times, this latter type of employment is neither manageable nor
-necessary and, in fact, is incompatible with full-time graduate study.
-Therefore, the Department feels it is important to ensure the awareness
-of the above employment policy. Included in this policy is consulting
-projects. All employment other than an AR or AI is subject to review by
-the Director of Graduate Studies.
+Historically, in addition to being employed as ARs and AIs by the Department, graduate students have intermittently been involved in employment elsewhere. It is the concern of the Department that, at times, this latter type of employment is neither manageable nor necessary and, in fact, is incompatible with full-time graduate study. Therefore, the Department feels it is important to ensure the awareness of the above employment policy. Included in this policy is consulting projects. All employment other than an AR or AI is subject to review by the Director of Graduate Studies. 
 
-Students must seek approval of part-time employment opportunities by
-filing a Request for approval from their adviser and the Departmental
-Director of Graduate Studies.
+Students must seek approval of part-time employment opportunities by filing a Request for approval from their adviser and the Departmental Director of Graduate Studies.
 
 #### Leave of Absence
 
-Written approval of adviser and DGS are required. Leave of Absence forms
-are available on the department website under the About Tab, Internal, &
-Forms.
+Written approval of adviser and DGS are required. Leave of Absence forms are available on the department website under the About Tab, Internal, & Forms.
 
 #### Holiday, Vacation, and Travel
 
-All time away from campus *(except weekends)* must be approved in
-writing by your adviser and if an Assistant in Instruction, approval
-from the DGS and course instructor. An email requesting time away from
-campus with your leave and return date including reason for absence is
-appropriate. In the case of first year students that may not yet have an
-adviser, you must submit your request via email through Kim Lupinacci in
-the Graduate Office who will obtain approvals from the Director of
-Graduate Studies.
+All time away from campus *(except weekends)* must be approved in writing by your adviser and if an Assistant in Instruction, approval from the DGS and course instructor. An email requesting time away from campus with your leave and return date including reason for absence is appropriate. In the case of first year students that may not yet have an adviser, you must submit your request via email through Kim Lupinacci in the Graduate Office who will obtain approvals from the Director of Graduate Studies. 
 
-Graduate study is, understood to be a full-time commitment on the part
-of students. During an academic year, which includes the summer,
-graduate student degree candidates may take up to (but no more than)
-four weeks of vacation, including any days taken during regular
-University holidays and scheduled recesses (e.g., the fall- and spring-
-term breaks and inter-term break). The specific periods taken as
-vacation must not conflict with the student's academic responsibilities,
-coursework, research, or teaching, and should be discussed in advance
-with one's director of graduate studies, adviser, or dissertation
-committee.
+Graduate study is, understood to be a full-time commitment on the part of students. During an academic year, which includes the summer, graduate student degree candidates may take up to (but no more than) four weeks of vacation, including any days taken during regular University holidays and scheduled recesses (e.g., the fall- and spring- term breaks and inter-term break). The specific periods taken as vacation must not conflict with the student's academic responsibilities, coursework, research, or teaching, and should be discussed in advance with one's director of graduate studies, adviser, or dissertation committee.
 
-If a student receives financial support for graduate study for only part
-of the year (e.g., regular term time, September 1 to June 30), then the
-amount of vacation should be prorated accordingly. If a student receives
-summer support and has taken the allowed vacation during regular term
-time, September 1 to June 30, then he or she should not take additional
-vacation time during the summer months of July and August. 
+If a student receives financial support for graduate study for only part of the year (e.g., regular term time, September 1 to June 30), then the amount of vacation should be prorated accordingly. If a student receives summer support and has taken the allowed vacation during regular term time, September 1 to June 30, then he or she should not take additional vacation time during the summer months of July and August.
 
-If a student holds an external fellowship whose terms may conflict with
-this guideline, the student should consult first with the director of
-graduate studies or adviser. 
+If a student holds an external fellowship whose terms may conflict with this guideline, the student should consult first with the director of graduate studies or adviser.
 
 **PLEASE NOTE**
 
-All ORFE Graduate Students are required to be on campus during term
-time. Any time away from campus exceeding 3 business days MUST BE
-APPROVED in writing by your adviser or DGS for 1^st^ year students
-without an adviser. You are responsible for emailing a formal request to
-Kim Lupinacci in the student affairs office at least **2 weeks prior to
-leave**. Kim will contact the DGS for approval and confirm with you the
-decision.
+All ORFE Graduate Students are required to be on campus during term time. Any time away from campus exceeding 3 business days MUST BE APPROVED in writing by your adviser or DGS for 1^st^ year students without an adviser. You are responsible for emailing a formal request to Kim Lupinacci in the student affairs office at least **2 weeks prior to leave**. Kim will contact the DGS for approval and confirm with you the decision.
 
-Please visit the registrar\'s website for the Princeton University
-Academic Calendar:
+Please visit the registrar's website for the Princeton University Academic Calendar:
 
-[[http://registrar.princeton.edu]{.ul}](http://registrar.princeton.edu)
+[http://registrar.princeton.edu](http://registrar.princeton.edu)
 
 ## Miscellaneous Information
 
--   Watch your emails and mark your calendars for the following
-    departmental events. Your presence at these events will be
-    appreciated.
-
-    -   Graduate Welcome Reception (September)
-    -   ORFE Social: beer, wine and pizza event (typically every other
-        Friday during the semester in the 2^nd^ floor common area)
-    -   Academic job panel (early Fall semester)
-    -   Faculty Presentations to 1^st^ year incoming Graduate students
-        (Spring semester)
-    -   Holiday Party (last week of classes in December)
-    -   Seminars: Statistics (Mondays), ORFE colloquium (Tuesdays),
-        Probability (alternate Wednesdays), Financial Mathematics
-        (alternate Wednesdays), Optimization (Thursdays).
-
--   Graduate Student Affairs Office is room 120, extension 8-4018,
-    klupinac\@princeton.edu.
--   E-mail is how department correspondence is transmitted. PLEASE check
-    it regularly.
--   Payroll checks are put in your mailbox on the last working day of
-    the month. Go Green! Sign up for direct deposit via TIGERHUB,
-    [http://www.princeton.edu/tigerhub]{.ul}.
--   Mailboxes are located on the second floor, Room 221. PLEASE CHECK
-    YOUR MAILBOX DAILY. The door to the mailroom is to be kept locked at
-    all times.
--   The address for package delivery is: your name, Princeton
-    University, 98 Charlton Street, Sherrerd Hall, Princeton, NJ 08544
--   A Fax Machine is located in the mailroom. To receive a fax, use
-    609-258-3791. To send International 9-011+number, In US-9+number,
-    Campus 8+4 digit number.
--   You may use the copier as a scanner in room 107.
--   Telephones are located in every room. Local calls are free. In case
-    of an emergency and you want to make a long-distance call, please
-    contact the Department Manager, Connie Brown.
--   Graduate Student Kitchen, located in room 223. It is available to
-    both graduate students and faculty in the ORFE department. Remember
-    to clean up after your use. Vending machines are located in the
-    basement. Please refrain from using the 3^rd^ floor kitchen
-    facilities which is reserved for CITP faculty, staff and students.
--   Graduate Lounge, the open area located on the second floor provides
-    a meeting space for graduate students and faculty. This is a common
-    area shared by all. Please clean the area after using. This space is
-    not to be used for office hours.
--   Bulletin boards. The graduate information board is located in the
-    faculty and graduate open work space area on the second floor. There
-    are also two seminar notice boards at the end of each hallway on the
-    first and second floors. Information on current fellowships,
-    scholarships, grants, call for papers, etc. to which students may
-    apply are posted on the boards.
--   Other sources of useful information can be found on the Graduate
-    School website.
+- Watch your emails and mark your calendars for the following departmental events. Your presence at these events will be appreciated.
+	- Graduate Welcome Reception (September)
+	- ORFE Social: beer, wine and pizza event (typically every other Friday during the semester in the 2^nd^ floor common area)
+	- Academic job panel (early Fall semester)
+	- Faculty Presentations to 1^st^ year incoming Graduate students (Spring semester)
+	- Holiday Party (last week of classes in December)
+	- Seminars: Statistics (Mondays), ORFE colloquium (Tuesdays), Probability (alternate Wednesdays), Financial Mathematics (alternate Wednesdays), Optimization (Thursdays).
+- Graduate Student Affairs Office is room 120, extension 8-4018, klupinac\@princeton.edu.
+- E-mail is how department correspondence is transmitted. PLEASE check it regularly.
+- Payroll checks are put in your mailbox on the last working day of the month. Go Green! Sign up for direct deposit via TIGERHUB, [http://www.princeton.edu/tigerhub].
+- Mailboxes are located on the second floor, Room 221. PLEASE CHECK YOUR MAILBOX DAILY. The door to the mailroom is to be kept locked at all times.
+- The address for package delivery is: your name, Princeton University, 98 Charlton Street, Sherrerd Hall, Princeton, NJ 08544
+- A Fax Machine is located in the mailroom. To receive a fax, use 609-258-3791. To send International 9-011+number, In US-9+number, Campus 8+4 digit number.
+- You may use the copier as a scanner in room 107.
+- Telephones are located in every room. Local calls are free. In case of an emergency and you want to make a long-distance call, please contact the Department Manager, Connie Brown.
+- Graduate Student Kitchen, located in room 223. It is available to both graduate students and faculty in the ORFE department. Remember to clean up after your use. Vending machines are located in the basement. Please refrain from using the 3^rd^ floor kitchen facilities which is reserved for CITP faculty, staff and students.
+- Graduate Lounge, the open area located on the second floor provides a meeting space for graduate students and faculty. This is a common area shared by all. Please clean the area after using. This space is not to be used for office hours.
+- Bulletin boards. The graduate information board is located in the faculty and graduate open work space area on the second floor. There are also two seminar notice boards at the end of each hallway on the first and second floors. Information on current fellowships, scholarships, grants, call for papers, etc. to which students may apply are posted on the boards.
+- Other sources of useful information can be found on the Graduate School website.
 
 ## Important Contacts
 
@@ -661,310 +316,200 @@ Academic Calendar:
 * McCosh Health Center Emergency, Ext. 3139
 * Public Safety Non-Emergency 258-1000 Emergency 9-1-1
 
-**Welcome to the department, we wish you success as you pursue your
-graduate degree**
+**Welcome to the department, we wish you success as you pursue your graduate degree**
 
 ## Frequently Asked Questions
 
--   **[Where can I have copies made?]{.ul}**
+- Where can I have copies made?
 
-> Copies related to courses can be made in room 107, see Kim for log in
-> \#.
+	Copies related to courses can be made in room 107, see Kim for log in #.
 
--   **[Do you have a lost and found in Sherrerd Hall?]{.ul}**
+- Do you have a lost and found in Sherrerd Hall?
 
-> *Yes, if you have lost or found an item please go to Sherrerd Hall,
-> room 105.*
+	Yes, if you have lost or found an item please go to Sherrerd Hall, room 105.
 
--   **[Is there a Notary Public on campus?]{.ul}**
+- Is there a Notary Public on campus?
 
-> *You may find a Notary Public at Firestone Library, Credit Union and
-> the Tiger Card Office located at A-level in New South.*
+	You may find a Notary Public at Firestone Library, Credit Union and the Tiger Card Office located at A-level in New South.
 
--   **[Is there a place to have passport/visa photos taken?]{.ul}**
+- Is there a place to have passport/visa photos taken?
 
-> *Yes, please visit the tigercard office, A-level in New South*
-> *[www.princeton.edu/tigercard/passport]{.ul} No Appt Necessary, \$5
-> fee.*
+	Yes, please visit the tigercard office, A-level in New South [www.princeton.edu/tigercard/passport]. No Appt Necessary, \$5 fee.
 
--   **[What is the mailing address for Sherrerd Hall?]{.ul}**
+- What is the mailing address for Sherrerd Hall?]
 
-    -   *[USPS]{.ul}-Princeton University, Your Name, Sherrerd Hall &
-        Room Number, Princeton, NJ 08544*
+	* USPS: Princeton University, Your Name, Sherrerd Hall & Room Number, Princeton, NJ 08544
+	* UPS/Fed Ex: Princeton University, Your Name, 98 Charlton Street, Sherrerd Hall, Room Number, Princeton, NJ 08544
+	* Do not use nicknames---use your proper name.
 
-    -   *[UPS/Fed Ex]{.ul}- Princeton University, Your Name, 98 Charlton
-        Street, Sherrerd Hall, Room Number, Princeton, NJ 08544*
+- How do I receive mail?
 
-> [*(Do not use nicknames*---use your proper name)]{.ul}
+	* Regular mail will be placed in your mail slot in room 221.
+	* UPS/Fed Ex/DHL-signed for by a dept office, you are contacted for pick up.
 
--   **[How do I receive mail?]{.ul}**
+- How do I send mail, is postage required?
 
-> *Regular mail will be placed in your mail slot in room 221.*
->
-> *UPS/Fed Ex/DHL-signed for by a dept office, you are contacted for
-> pick up.*
+	* Postage is required on all outgoing mail. You may purchase stamps at the Post Office located on Nassau Street. Campus mail should be placed in an interoffice envelope. There are trays in the mailroom for each type of mail.
 
--   **[How do I send mail, is postage required?]{.ul}**
+- How do I fax a document internationally, domestically?
 
-> *Postage is required on all outgoing mail. You may purchase stamps at
-> the*
->
-> *Post Office located on Nassau Street. Campus mail should be placed in
-> an interoffice envelope. There are trays in the mailroom for each type
-> of mail.*
+	* On Campus-8/xxxx*
+	* In *609* area code-xxx-xxxx
+	* Outside 609 area code 1-xxx-xxx-xxxx*
+	* Internationally-0-9-1-and number
 
--   **[How do I fax a document internationally, domestically?]{.ul}**
+- How do I place a request for maintenance and service repairs?
 
-> *On Campus-8/xxxx*
->
-> *In* *609* *area code-xxx-xxxx*
->
-> *Outside 609 area code 1-xxx-xxx-xxxx*
->
-> *Internationally-0-9-1-and number*
+	* Please contact Lauren Coleman at lc19@princeton.edu. She will place a work order request on your behalf.*
 
--   **[How do I place a request for maintenance and service
-    repairs?]{.ul}**
+- Can I reserve a room for a meeting?
 
-> *Please contact Lauren Coleman at* *[lc19\@princeton.edu]{.ul}. She
-> will place a work order request on your behalf.*
+	* Yes, you may contact Kim or any department office administrator for help. Please note that classrooms require 3 working days' notice per registrar.
 
--   **[Can I reserve a room for a meeting?]{.ul}**
+- Can you tell me when a Professor will be in?
 
-> *Yes, you may contact Kim or any department office administrator for
-> help. Please note that classrooms require 3 working days'* *notice per
-> registrar.*
+	* It is best to send an email to the faculty member you wish to speak with.
 
--   **[Can I set up my laptop to print in the mailroom?]{.ul}**
+- Can I store my personal items in the building?
 
-> Instructions are listed on the ORFE Website
+	* No, office space is a shared environment. Please contact student agencies for moving and storage needs.*
 
--   **[Can you tell me when a Professor will be in?]{.ul}**
+- How do I sign up for ORF 511, Extramural Summer Project (CPT)?
 
-> *It is best to send an email to the faculty member you wish to speak
-> with.*
+	* An email should be sent to your adviser asking permission. Please cc Kim Lupinacci. All paperwork is to be copied to Kim Lupinacci.
 
--   **[Can I store my personal items in the building?]{.ul}**
+- Do I need to tell someone that I will not be on campus?
 
-> *No, office space is a shared environment. Please contact student
-> agencies for moving and storage needs.*
+	* Yes, any time away from campus must be approved in writing by the DGS or your adviser with a copy to the student affairs office. Please see page 13 of this handbook for details.
 
--   **[How do I sign up for ORF 511, Extramural Summer Project
-    (CPT)?]{.ul}**
+- Does the department have a projector and pointer for my presentation?
 
-> *An email should be sent to your adviser asking permission. Please cc
-> Kim Lupinacci. All paperwork is to be copied to Kim Lupinacci.*
+	* Yes, Kim, Tara, Michael and Lauren can provide both pointers and projectors.
 
--   **[Do I need to tell someone that I will not be on campus?]{.ul}**
+- Does the department order the book for me to use as a teaching assistant?
 
-> *Yes, any time away from campus must be approved in writing by the DGS
-> or your adviser with a copy to the student affairs office. Please see
-> page 13 of this handbook for details.*
+	* Yes, when you are notified of your assignment you are also given instructions on where to pick up reading materials, if any.
 
--   **[Does the department have a projector and pointer for my
-    presentation?]{.ul}**
+- Does everyone have to attend AI orientation prior to teaching?
 
-> *Yes, Kim, Tara, Michael and Lauren can provide both pointers and
-> projectors.*
+	* Yes, AI orientation is mandatory in order to hold a teaching position.
 
--   **[Does the department order the book for me to use as a teaching
-    assistant?]{.ul}**
+- Will the department provide a letter for my parents/family to visit?
 
-> *Yes, when you are notified of your assignment you are also given
-> instructions on where to pick up reading materials, if any.*
+	* No, the department will provide a letter for you, for visa purposes. Please contact visa services for information regarding parental visits.*
 
--   **[Does everyone have to attend AI orientation prior to
-    teaching?]{.ul}**
+- Where can I have a poster printed?
 
-> *Yes, AI orientation is mandatory in order to hold a teaching
-> position.*
-
--   **[Will the department provide a letter for my parents/family to
-    visit?]{.ul}**
-
-> *No, the department will provide a letter for you, for visa purposes.
-> Please contact visa services for information regarding parental
-> visits.*
-
--   **[Where can I have a poster printed?]{.ul}**
-
-> *Poster printing can be done through Printing and Mailing which is
-> located at the corner of Charlton and Nassau.*
+	* Poster printing can be done through Printing and Mailing which is located at the corner of Charlton and Nassau.*
 
 ## Helpful Links
 
--   **Academic Calendar**
-
--   **Blackboard**
-
--   **Campus Maps**
-
--   **Career Services**
-
--   **Catering-Restaurants**
-
--   **Courses**
-
--   **Emergency Closings** (**609-258-SNOW)**
-
--   **Engineering Library**
-
--   **Firestone Library**
-
--   **Graduate School**
-
--   **Help Desk**
-
--   **Housing**
-
--   **Human Resources**
-
--   **Labyrinth Bookstore**
-
--   **Laundry Services**
-
--   **Lewis Library**
-
--   **Moving and Storage**
-
--   **Our Neighborhood**
-
--   [**Public
-    Transit**](https://transportation.princeton.edu/options/tigertransit)
-    **Rights, Rules & Responsibilities**
-
--   **SEAS**
-
--   **Student Agencies**
-
--   **The McGraw Center, seminars and workshops**
-
--   **Tiger Trade**
-
--   **Tiger Transit**
-
--   **University Health Services**
-
--   **Visa Services/Davis International Center**
-
--   **Weather**
-
--   **Photo ID Cards**
-
+- Academic Calendar
+- Blackboard
+- Campus Maps
+- Career Services
+- Catering-Restaurants
+- Courses
+- Emergency Closings** (**609-258-SNOW)
+- Engineering Library
+- Firestone Library
+- Graduate School
+- Help Desk
+- Housing
+- Human Resources
+- Labyrinth Bookstore
+- Laundry Services
+- Lewis Library
+- Moving and Storage
+- Our Neighborhood
+- [Public Transit](https://transportation.princeton.edu/options/tigertransit)
+- Rights, Rules & Responsibilities
+- SEAS
+- Student Agencies
+- The McGraw Center, seminars and workshops
+- Tiger Trade
+- Tiger Transit
+- University Health Services
+- Visa Services/Davis International Center
+- Weather
+- Photo ID Cards
 
 ## Policy on Graduate Student Travel
 
 **Policy for Student Travel, Travel Reimbursement and Reimbursement of
 Out of Pocket Expenses**
 
-**About Concur**:
+### About Concur
 
-The Concur Travel and Expense System must be used to request student
-travel for both individuals and groups. All travel funded by university
-or sponsored research funds must be submitted through the Concur Travel
-and Expense System. All travel reimbursement requests for out of pocket
-expenses and non-travel reimbursement requests are also submitted
-through this system. [www.princeton.edu/concur]{.ul}.
+The Concur Travel and Expense System must be used to request student travel for both individuals and groups. All travel funded by university or sponsored research funds must be submitted through the Concur Travel and Expense System. All travel reimbursement requests for out of pocket expenses and non-travel reimbursement requests are also submitted through this system.
 
 Concur will allow you to:
 
-• Plan, estimate expenses, and book travel online
-
-• Maintain an online profile to store information such as frequent flyer
+* Plan, estimate expenses, and book travel online
+* Maintain an online profile to store information such as frequent flyer
 numbers and other preferences
-
-• Upload electronic copies of your receipts
-
-• Create expense reports for reimbursement
-
-• Create non-travel reimbursement requests
+* Upload electronic copies of your receipts
+* Create expense reports for reimbursement
+* Create non-travel reimbursement requests
 
 **Pre and Post Travel and Expense Requirements:**
 
-**Graduate students are required** to submit travel requests in Concur
-for all travel.
+**Graduate students are required** to submit travel requests in Concur for all travel.
 
-***Important**!* Before submitting a travel request, you **must**
-complete all of the required steps and forms listed at
-http://travel.princeton.edu and the **ORFE Pre-Authorization form**.
-Once you receive the approval from the ORFE Grants Manager, you will be
-able to proceed with your travel arrangements and purchases.
+***Important**!* Before submitting a travel request, you **must** complete all of the required steps and forms listed at http://travel.princeton.edu and the **ORFE Pre-Authorization form**. Once you receive the approval from the ORFE Grants Manager, you will be able to proceed with your travel arrangements and purchases.
 
-In addition to entering the travel information in Concur, you must also
-update your profile to include a mobile phone number and e-mail address
-where you can be reached while traveling. You will then need to respond
-to a verification request from your phone and email account.
+In addition to entering the travel information in Concur, you must also update your profile to include a mobile phone number and e-mail address where you can be reached while traveling. You will then need to respond to a verification request from your phone and email account.
 
 **Accessing Concur**
 
-To log into Concur,
+To log into Concur:
 
-1\. Go to www.princeton.edu/concur.
-
-2\. Enter your Princeton netID and password, and click Login.
+1. Go to [www.princeton.edu/concur](www.princeton.edu/concur).
+2. Enter your Princeton netID and password, and click Login.
 
 **Setting up Approvers and Delegates:**
 
 **Default Approver**
 
-**1.** From the **Profile** menu, on the left-hand side of your screen
+1. From the **Profile** menu, on the left-hand side of your screen
 under "Expense Settings", select **Expense Approvers**.
 
-**2.** Enter Melissa Holmes or net id mh22 in the search field and
+2. Enter Melissa Holmes or net id mh22 in the search field and
 select from the dropdown list.
 
-**3.** Click **Save.**
+3. Click **Save.
 
-**Expense Delegate (This will allow an ORFE administrator to assist you
-if needed with preparation of travel and misc. expense reports for
-reimbursement)**
+**Expense Delegate (This will allow an ORFE administrator to assist you if needed with preparation of travel and misc. expense reports for reimbursement)**
 
-1\. From the **Profile** menu, on the left-hand side of your screen
+1. From the **Profile** menu, on the left-hand side of your screen
 under "Expense Settings" select **Expense Delegates**.
-
-2\. Click **Add**.
-
-3\. Add the following list of netids and select from the drop-down list:
+2. Click **Add**.
+3. Add the following list of netids and select from the drop-down list:
 **connieb (**Connie Brown**)**, **mh22 (**Melissa Holmes**), klupinac
 (**Kimberly Lupinacci**), mischler (**Tabitha Mischler), **tfalter**
 (Tiffany Falter), and **tzigler (**Tara Zigler**).**
-
-4\. Check off "**Can Prepare**" and "**Can View Receipts**" for all
+4. Check off "**Can Prepare**" and "**Can View Receipts**" for all
 above.
-
-5\. Select additional checkbox "**Receives Emails**\", \"**Can
+5. Select additional checkbox "**Receives Emails**\", \"**Can
 Approve**\", \"**Receives Approval Emails**\" for Melissa Holmes and
 Connie Brown
-
-6\. Click **Save**.
+6. Click **Save**.
 
 **Verify your email address**
 
-Please verify your \@princeton email address along with any others you
-may use when arranging travel or submitting expenses. You can elect to
-have emails sent to one or multiple addresses, but verifying emails
-allows you and your expense delegate to upload documents to your account
-via email.
+Please verify your \@princeton email address along with any others you may use when arranging travel or submitting expenses. You can elect to have emails sent to one or multiple addresses, but verifying emails allows you and your expense delegate to upload documents to your account via email.
 
-1\. Once you have saved an email address, click the \"Verify\" link.
-
-2\. Check your email for a verification message from Concur.
-
-3\. Copy the code from the email message into the \"Enter Code\" box
+1. Once you have saved an email address, click the \"Verify\" link.
+2. Check your email for a verification message from Concur.
+3. Copy the code from the email message into the \"Enter Code\" box
 next to the email address below.
-
-4\. Click \"OK\" to submit the code and complete verification.
+4. Click \"OK\" to submit the code and complete verification.
 
 **Entering a New Travel Request**
 
-You can open the travel request page by clicking the **Requests** from
-the menu across the top of the page. Next, click Create a Request \> New
-Request. The request opens on the Request Header tab. You will need to
-complete all fields with a red bar at the beginning of the field on the
-Request Header tab, and add all travel segments on the Segments tab.
+You can open the travel request page by clicking the **Requests** from the menu across the top of the page. Next, click Create a Request \> New Request. The request opens on the Request Header tab. You will need to complete all fields with a red bar at the beginning of the field on the Request Header tab, and add all travel segments on the Segments tab. 
 
-**Concur also has a mobile application.
-https://www.concur.com/en-us/mobile**
+**Concur also has a [mobile application](https://www.concur.com/en-us/mobile).**
 
 **Report Header**:
 
